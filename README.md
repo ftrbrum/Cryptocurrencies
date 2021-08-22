@@ -47,5 +47,5 @@ Scaled Plot DataFrame <br/>
 ![scaled_plot.png](Challenge/Images/scaled_plot.png) <br/>
 
 Scatter Plot Chart <br/>
-![table.png](Challenge/Images/table.png) <br/>
+![scatter_2.png](Challenge/Images/scatter_2.png) <br/>
 
